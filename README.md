@@ -6,7 +6,7 @@ These resources may be shared or modified as long as my credits are not removed!
 EPLOG-Tools is licensed under the [MIT License](https://github.com/EPLOGx/FiveM-Cars/blob/main/LICENSE).
 
 # Content
-[V-Bucks Van]
+[V-Bucks Van](https://github.com/EPLOGx/FiveM-Cars/tree/V-Bucks-Van)
 
 # Other Projects
 [Le Bot](https://lebot.eplogx.de)<br>
