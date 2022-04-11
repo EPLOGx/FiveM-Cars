@@ -5,6 +5,9 @@ These cars are created by me alone, if I have used designs or 3D models from oth
 These resources may be shared or modified as long as my credits are not removed!<br>
 EPLOG-Tools is licensed under the [MIT License](https://github.com/EPLOGx/FiveM-Cars/blob/main/LICENSE).
 
+# Content
+[V-Bucks Van]
+
 # Other Projects
 [Le Bot](https://lebot.eplogx.de)<br>
 [EPLOG-Tools](https://github.com/EPLOGx/EPLOG-Tools)
