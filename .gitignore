@@ -1,9 +1,0 @@
-
-.gitattributes
-
-*.so
-*.o
-*.a
-
-temp
-lua
